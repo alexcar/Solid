@@ -1,0 +1,1 @@
+﻿https://medium.com/@engnogueirawgn/princ%C3%ADpio-da-substitui%C3%A7%C3%A3o-de-liskov-lsp-f97fe5d1854d
